@@ -2,7 +2,7 @@
 My first project start with new language Kotlin
 
 [![Ansible Role](https://img.shields.io/badge/Developer-Soussidev-yellow.svg)]()
-[![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
+
 <br>
 # Screenshot MainActivity :
 
