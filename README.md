@@ -5,9 +5,19 @@ My first project start with new language Kotlin
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 <br>
 # Screenshot MainActivity :
-<img src="/material_drawer_kotlin1.PNG">
 
-<img src="/material_drawer_kotlin2.PNG">
+<table>
+<tr>
+<td>
+<p>MainActivity </p>
+<img src="/material_drawer_kotlin1.PNG" height="450" width="280">
+</td>
+<td>
+<p> Detail Activity </p>
+<img src="/material_drawer_kotlin2.PNG" height="450" width="280">
+</td>
+</tr>
+</table>
 
 <br>
 
