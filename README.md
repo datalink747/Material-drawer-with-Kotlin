@@ -21,6 +21,22 @@ My first project start with new language Kotlin
 
 <br>
 
+# Social Media
+<table style="border:0px;">
+   <tr>
+      <td>
+<a href="https://www.linkedin.com/in/soussimohamed/">
+<img src="picture/linkedin.png" height="100" width="100" alt="Soussi Mohamed">
+</a>
+      </td>
+      <td>
+         <a href="https://twitter.com/soussimohamed7/">
+<img src="picture/Twitter.png" height="60" width="60" alt="Soussi Mohamed">
+</a>
+     </td>
+  </tr> 
+</table> 
+
 # Licence
 
 ```
